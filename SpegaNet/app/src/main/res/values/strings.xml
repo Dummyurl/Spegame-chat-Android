@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpegaNet</string>
+    <string name="action_settings">Settings</string>
+    <string name="messageWithLink">This is a message with a link inside!\n<a href="https://www.google.com/">Tap here to open it!</a></string>
+<string name="installMessage">Speganet send a ontime SMS for Verification</string>
+    <string name="countryMessage">Please confirm Your Country code and enter your phone number</string>
+    <string name="confirmOtp">Please confirm Your one time password </string>
+
+</resources>
